@@ -8,7 +8,7 @@ Obsidian Theme
 
 
 
-Solarized
+Solarized Theme（推荐）
 
 [notepad2-colors-solarized](https://github.com/achbed/notepad2-colors-solarized)
 
